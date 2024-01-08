@@ -1,0 +1,25 @@
+# Required for data manipulation
+pandas
+
+# Network analysis tools
+networkx
+
+# Plotting and visualization
+matplotlib
+seaborn
+plotly
+
+# Scientific computing
+numpy
+
+# Machine learning algorithms
+scikit-learn
+xgboost
+
+# Add other packages as needed
+openpyxl
+kaleido
+
+#
+# pip install -r requirements
+#
